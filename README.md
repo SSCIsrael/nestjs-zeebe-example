@@ -34,6 +34,4 @@ Access Zeebe operate on
 
 http://zeebe.sscisrael.com/
 
-auth: demo:demo
-
 
